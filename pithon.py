@@ -9,4 +9,4 @@ c = a / b
 print(c)
 sleep(1)
 t = 2 * c * 6378 
-print(t2)
+print(t)
